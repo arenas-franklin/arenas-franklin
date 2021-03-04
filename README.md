@@ -15,7 +15,7 @@
 
 ## Find me around the world:
 * [Linkedin]( https://www.linkedin.com/in/arenasfranklin/)
-* [Instagram] (https://www.instagram.com/arenas_franklin/?hl=pt-br)
+* [Instagram](https://www.instagram.com/arenas_franklin/?hl=pt-br)
 * [glitch](https://glitch.com/@arenas-franklin)
 * [dev.to](https://dev.to/arenasfranklin)
 
