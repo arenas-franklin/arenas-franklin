@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi, I'm Franklin Angelo 👦💻👋
+---
+
+## Who am I?
+* cientista de dados em desenvolvimento 
+
+
+## Skills 🤹🏻
+
+* 🐍 Python
+* R
+* Javascript
+* SQL
+* Power BI
+
+## Find me around the world:
+* [Linkedin]( https://www.linkedin.com/in/arenasfranklin/ )
+
+## **My project**
+
+
+
 
 <!--
 **arenas-franklin/arenas-franklin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
