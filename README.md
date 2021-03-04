@@ -1,11 +1,11 @@
 ### Hi, I'm Franklin Angelo 👦💻👋
 ---
 
-## Who am I?
+## Quem eu sou?
 * cientista de dados em desenvolvimento 
 
 
-## Skills 🤹🏻
+## Habilidades 🤹🏻
 
 * 🐍 Python
 * R
@@ -15,6 +15,9 @@
 
 ## Find me around the world:
 * [Linkedin]( https://www.linkedin.com/in/arenasfranklin/ )
+* [Instagram] ( https://www.instagram.com/arenas_franklin/?hl=pt-br )
+* [glitch](https://glitch.com/@arenas-franklin)
+* [dev.to](https://dev.to/arenasfranklin)
 
 ## **My project**
 
